@@ -230,10 +230,10 @@ deepMerge(base, override)
 |------------|--------------------------------|
 | orchestrator | runtime-resolved              |
 | oracle      | `openai/gpt-5.4`        |
-| librarian   | `openai/gpt-5-codex`   |
-| explorer    | `openai/gpt-5-codex`   |
-| designer    | `openai/gpt-5-codex`          |
-| fixer       | `openai/gpt-5-codex`   |
+| librarian   | `openai/gpt-5.4-mini`   |
+| explorer    | `openai/gpt-5.4-mini`   |
+| designer    | `openai/gpt-5.4-mini`   |
+| fixer       | `openai/gpt-5.4-mini`   |
 
 ## File Organization
 
